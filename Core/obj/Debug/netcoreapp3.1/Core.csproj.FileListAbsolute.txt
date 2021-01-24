@@ -7,3 +7,12 @@ C:\projects\mentoria\projeto_mentoria_api\ApiMentoria\Core\obj\Debug\netcoreapp3
 C:\projects\mentoria\projeto_mentoria_api\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\projects\mentoria\projeto_mentoria_api\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\projects\mentoria\projeto_mentoria_api\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Repositorios\Mentoria\ApiMentoria\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Repositorios\Mentoria\ApiMentoria\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Repositorios\Mentoria\ApiMentoria\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Repositorios\Mentoria\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Repositorios\Mentoria\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Repositorios\Mentoria\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Repositorios\Mentoria\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Repositorios\Mentoria\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Repositorios\Mentoria\ApiMentoria\Core\obj\Debug\netcoreapp3.1\Core.pdb

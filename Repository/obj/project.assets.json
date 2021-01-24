@@ -6051,34 +6051,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.cordeiro\\.nuget\\packages\\": {}
+    "C:\\Users\\guilherme.albanez\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\mentoria\\projeto_mentoria_api\\ApiMentoria\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Repositorios\\Mentoria\\ApiMentoria\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\projects\\mentoria\\projeto_mentoria_api\\ApiMentoria\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\gabriel.cordeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\mentoria\\projeto_mentoria_api\\ApiMentoria\\Repository\\obj\\",
+      "projectPath": "C:\\Repositorios\\Mentoria\\ApiMentoria\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\guilherme.albanez\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorios\\Mentoria\\ApiMentoria\\Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\gabriel.cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\guilherme.albanez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\projects\\mentoria\\projeto_mentoria_api\\ApiMentoria\\Core\\Core.csproj": {
-              "projectPath": "C:\\projects\\mentoria\\projeto_mentoria_api\\ApiMentoria\\Core\\Core.csproj"
+            "C:\\Repositorios\\Mentoria\\ApiMentoria\\Core\\Core.csproj": {
+              "projectPath": "C:\\Repositorios\\Mentoria\\ApiMentoria\\Core\\Core.csproj"
             }
           }
         }
